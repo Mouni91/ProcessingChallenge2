@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="core">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core" recursive="false" type="SOURCES" />
+  </library>
+</component>
